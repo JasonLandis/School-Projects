@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9b7a959bf3b46f8448e1c42ea003680f
+  - enabled: 1
+    path: Assets/Scenes/LoadPlayerMode.unity
+    guid: 1518edd740f483d4cae690496014f40c
+  - enabled: 1
+    path: Assets/Scenes/LoadDemoMode.unity
+    guid: 29b7eb40d04217c4291ea8a6bfea0312
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: c23e6482707d9b14886e66ebd495b922
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: f6643b2c89438134ca4dbab35f14b2c4
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 7eda2910f225a684193a8d83af5f4a68
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: 0f4c77152571a1a4bab11679abe23b79
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: 66e244c4a99cbf9408805e6a14ad1ec0
+  - enabled: 1
+    path: Assets/Scenes/Level 6.unity
+    guid: 1a8a4971e83360c4591e77a340b9f24d
+  - enabled: 1
+    path: Assets/Scenes/Level 7.unity
+    guid: 290e500398c3ecc42bd4bbf0641bcb6e
+  - enabled: 1
+    path: Assets/Scenes/Level 8.unity
+    guid: daaa184e54fb84546a70408feb55e9d8
+  - enabled: 1
+    path: Assets/Scenes/Level 9.unity
+    guid: 592781020217f8d4b80acbaad0701d87
+  - enabled: 1
+    path: Assets/Scenes/Level 10.unity
+    guid: 7315ac31ad1916a4f82ec39355447183
+  - enabled: 1
+    path: Assets/Scenes/Level 11.unity
+    guid: 967efad4d1802414bba657690e25733b
+  - enabled: 1
+    path: Assets/Scenes/Level 12.unity
+    guid: b1649604fe29c614cacfb31d8024a42f
+  - enabled: 1
+    path: Assets/Scenes/Level 13.unity
+    guid: 542bc881f6c182d408b0d758d0fb6d20
+  - enabled: 1
+    path: Assets/Scenes/Level 14.unity
+    guid: 3761d95b0bb326741be655941d3d5872
+  - enabled: 1
+    path: Assets/Scenes/Level 15.unity
+    guid: 431b10a2549e1954a98a93a959f06cda
+  - enabled: 1
+    path: Assets/Scenes/Level 16.unity
+    guid: 17a0fa0c533f8dc4ea9815d2072b1f07
+  - enabled: 1
+    path: Assets/Scenes/Level 17.unity
+    guid: 3fa89d6247f6c544ba51e6bfde4e2f27
+  - enabled: 1
+    path: Assets/Scenes/Level 18.unity
+    guid: 1c8d52b75ab000c43afd5dbd1b482d33
+  - enabled: 1
+    path: Assets/Scenes/Neural Network Level 1.unity
+    guid: 9cd9252162679c045a9932286e3c13b5
+  - enabled: 1
+    path: Assets/Scenes/Neural Network Level 2.unity
+    guid: d5961a4af33792d4c85abe2d1cbbcd62
+  - enabled: 1
+    path: Assets/Scenes/Neural Network Level 3.unity
+    guid: 5bd004d38a3af4c42b857458a1af5a4c
+  - enabled: 1
+    path: Assets/Scenes/Neural Network Level 4.unity
+    guid: 782cf2b7fe5c23e4987f6410ee7b029c
+  - enabled: 1
+    path: Assets/Scenes/Neural Network Level 5.unity
+    guid: 109fd6f3eaf9d974580d7a5302ea0751
+  - enabled: 1
+    path: Assets/Scenes/Neural Network Level 6.unity
+    guid: 00a41f9c81046c54096f7157fcebd53c
+  - enabled: 1
+    path: Assets/Scenes/Neural Network Level 7.unity
+    guid: d7b16dda4d076b24ebb8ede08589d47c
+  - enabled: 1
+    path: Assets/Scenes/Neural Network Level 8.unity
+    guid: d77b4662accd290499f967b1b70d1e51
+  - enabled: 1
+    path: Assets/Scenes/Neural Network Level 9.unity
+    guid: b26f5c06a4fb5d442a2d320440f372f6
+  - enabled: 1
+    path: Assets/Scenes/Neural Network Level 10.unity
+    guid: 3a74e794f08e6474e81bd92ca457f12a
+  - enabled: 1
+    path: Assets/Scenes/Neural Network Level 11.unity
+    guid: db96bb9ef984c974c94fff1d66c61069
+  - enabled: 1
+    path: Assets/Scenes/Neural Network Level 12.unity
+    guid: 87de94c4f2944974daa7caac4fc574b8
+  - enabled: 1
+    path: Assets/Scenes/Neural Network Level 13.unity
+    guid: aa7de9136351d164691e04b1220c15d4
+  - enabled: 1
+    path: Assets/Scenes/Neural Network Level 14.unity
+    guid: cdc7dd7bc45fefe40afc313e6792aa42
+  - enabled: 1
+    path: Assets/Scenes/Neural Network Level 15.unity
+    guid: 1f7cc14b522c7a4448b90999f8b7eb11
+  - enabled: 1
+    path: Assets/Scenes/Neural Network Level 16.unity
+    guid: d493d441a06ff354abb0436889ee9ddc
+  - enabled: 1
+    path: Assets/Scenes/Neural Network Level 17.unity
+    guid: 03dcda6cbb81c17438bf64c1b1d614aa
+  - enabled: 1
+    path: Assets/Scenes/Neural Network Level 18.unity
+    guid: 515012e44ae58e14794f6e74751a2649
+  m_configObjects: {}
