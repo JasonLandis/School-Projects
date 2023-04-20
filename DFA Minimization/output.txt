@@ -1,0 +1,12 @@
+q2,q4,q0,q5,q1,q3
+a,b
+q0
+q0,q2,q4
+q1,q3,a,q2,q4
+q1,q3,b,q1,q3
+q5,a,q5
+q5,b,q5
+q2,q4,a,q5
+q2,q4,b,q2,q4
+q0,a,q1,q3
+q0,b,q1,q3
