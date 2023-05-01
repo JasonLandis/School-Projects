@@ -1,3 +1,3 @@
 # MiniGolf
 
-A 2D game made in unity showcasing generational AI learning
+A 2D game made in Unity showcasing generational AI learning
