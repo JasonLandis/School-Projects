@@ -4,10 +4,10 @@
 
 To run the program in windows, you must have the following installed:
 
-__Python (preferably the latest version)__
-__Regex__
-__Graphviz__
-__An IDE (optional)__
+__Python (preferably the latest version)__  
+__Regex__  
+__Graphviz__  
+__An IDE (optional)__  
 
 The regex library should be installed with python.
 
@@ -24,10 +24,10 @@ The program will prompt you to enter a regular expression
 
 My program includes computation of only the following operators
 
-__*  -  zero or more__
-__+  -  one or more__
-__|  -  or operator__
-__()  -  parentheses__
+__*  -  zero or more__  
+__+  -  one or more__  
+__|  -  or operator__  
+__()  -  parentheses__  
 
 Any other character entered will be processed as a terminal symbol
 
