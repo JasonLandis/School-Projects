@@ -1,10 +1,7 @@
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using TMPro;
-using Unity.VisualScripting;
-using UnityEditor;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.Tilemaps;
@@ -22,7 +19,7 @@ public class NetManager : MonoBehaviour
     public float worstFitness = 0;
 
     private float holeInOneThreshold = 67f;
-    private int population = 50;
+    private int population = 10;
     public int maxHitAttempts = 1;
     public float maxPower = 1000f;
     public float maxAngle = 180.0f;
@@ -49,7 +46,7 @@ public class NetManager : MonoBehaviour
     {
         if(population%2 != 0)
         {
-            population = 20;
+            population = 10;
             Debug.Log("Population must be divisible by 2, it was set to 20 by default otherwise");
         }
 

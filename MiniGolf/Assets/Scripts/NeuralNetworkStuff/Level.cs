@@ -1,10 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
 using TMPro;
-using TMPro.EditorUtilities;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.UIElements;
 
 public class Level : MonoBehaviour
 {
