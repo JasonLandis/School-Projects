@@ -1,6 +1,6 @@
 # School Projects
  
-This is a collection of some school projects I've worked on during my time in college.
+This is a collection of some school projects I've worked on during my time at Western Michigan University.
 
 Some of the more notable ones include:
 
